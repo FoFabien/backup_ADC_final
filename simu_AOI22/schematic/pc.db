@@ -1,0 +1,12 @@
+#
+analogLib vdc symbol
+V0
+#
+Projet_ADC_FINAL AOI22 symbol
+I0
+#ISCELL
+analogLib vdd symbol
+I1
+#ISCELL
+analogLib gnd symbol
+I2

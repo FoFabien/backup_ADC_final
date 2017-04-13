@@ -1,0 +1,38 @@
+#
+Projet_ADC_FINAL nand_4 symbol
+I11
+#
+Projet_ADC_FINAL AOI22 symbol
+I10
+I9
+I8
+I7
+#
+Projet_ADC_FINAL cmos_inverseur symbol
+I6
+I5
+I4
+I3
+I2
+I1
+I0
+#ISCELL
+basic ipin symbol
+PIN14
+PIN13
+PIN12
+PIN11
+PIN10
+PIN9
+PIN8
+PIN7
+PIN6
+PIN5
+PIN4
+PIN3
+PIN2
+PIN1
+PIN0
+#ISCELL
+basic opin symbol
+PIN15

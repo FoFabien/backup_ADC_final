@@ -1,0 +1,35 @@
+#
+Projet_ADC_FINAL comparateur_pmos symbol
+I6
+I5
+I4
+I3
+I2
+I1
+I0
+#ISCELL
+basic ipin symbol
+PIN15
+PIN14
+PIN7
+PIN6
+PIN5
+PIN4
+PIN3
+PIN13
+PIN12
+PIN11
+PIN10
+PIN9
+PIN2
+PIN1
+PIN0
+#ISCELL
+basic opin symbol
+PIN23
+PIN22
+PIN21
+PIN20
+PIN19
+PIN18
+PIN17

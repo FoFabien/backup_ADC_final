@@ -1,0 +1,10 @@
+#
+analogLib vdc symbol
+V3
+V2
+#
+PRIMLIB pmos4 symbol
+MP0
+#ISCELL
+analogLib gnd symbol
+I0

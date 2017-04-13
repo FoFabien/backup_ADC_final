@@ -1,0 +1,12 @@
+#
+analogLib vdc symbol
+V0
+#
+analogLib idc symbol
+I1
+#
+Projet_ADC_FINAL miroir_nmos symbol
+I0
+#ISCELL
+analogLib gnd symbol
+I2

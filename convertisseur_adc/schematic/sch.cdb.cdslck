@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      nseirb46
+HostName                       dartagnan.ixl.fr
+ProcessIdentifier              25098
+ProcessCreationTime_UTC        1271850988
+ProcessCreationTime_Readable   Wed Apr 21 13:56:28 2010 CEST
+AppIdentifier                  /local/solaris/cadence/ic5141usr6/tools/dfII/bin/icfb.exe
+OSType                         sun4v
+ReasonForPlacingEditLock       XXopen upgrade lock
+FilePathUsedToEditLock         /ext_users/tp/nseirb/nseirb46/cadence/Projet_ADC_FINAL/convertisseur_adc/schematic/sch.cdb
+TimeEditLocked                 Wed Apr 21 15:00:08 2010 CEST

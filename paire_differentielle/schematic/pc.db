@@ -1,0 +1,22 @@
+#
+analogLib vsin symbol
+V0
+#
+analogLib idc symbol
+I0
+#
+analogLib vdc symbol
+V1
+#
+analogLib res symbol
+R1
+R0
+#
+PRIMLIB nmos4 symbol
+MN1
+MN0
+#ISCELL
+analogLib gnd symbol
+I3
+I2
+I1

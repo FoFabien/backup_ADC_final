@@ -1,0 +1,48 @@
+#
+Projet_ADC_FINAL registre symbol
+I16
+#
+Projet_ADC_FINAL decodeur symbol
+I15
+#
+Projet_ADC_FINAL inverseur_16 symbol
+I14
+#
+analogLib res symbol
+R1
+R0
+#
+analogLib vdc symbol
+V2
+#
+analogLib vsin symbol
+V1
+#
+analogLib vpulse symbol
+V0
+#
+Projet_ADC_FINAL miroir_pmos_x8 symbol
+I5
+#
+Projet_ADC_FINAL miroir_nmos_x8 symbol
+I4
+#
+Projet_ADC_FINAL comparateur_nmos_x8 symbol
+I3
+#
+Projet_ADC_FINAL comparateur_pmos_x8 symbol
+I2
+#
+Projet_ADC_FINAL bloc_vref symbol
+I1
+#
+Projet_ADC_FINAL echantillonneur symbol
+I0
+#ISCELL
+analogLib gnd symbol
+I6
+I12
+#ISCELL
+analogLib vdd symbol
+I9
+I7

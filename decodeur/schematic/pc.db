@@ -1,0 +1,36 @@
+#
+Projet_ADC_FINAL cmos_inverseur symbol
+I3
+I4
+#
+Projet_ADC_FINAL S2 symbol
+I2
+#
+Projet_ADC_FINAL S1 symbol
+I1
+#
+Projet_ADC_FINAL S0 symbol
+I0
+#ISCELL
+basic ipin symbol
+PIN0
+PIN1
+PIN2
+PIN3
+PIN4
+PIN5
+PIN6
+PIN7
+PIN8
+PIN9
+PIN10
+PIN11
+PIN12
+PIN13
+PIN14
+#ISCELL
+basic opin symbol
+PIN17
+PIN16
+PIN15
+PIN19

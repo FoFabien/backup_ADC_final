@@ -1,0 +1,20 @@
+#
+analogLib res symbol
+R0
+#
+Projet_ADC_FINAL miroir_nmos symbol
+I3
+#
+analogLib vdc symbol
+V2
+V1
+V0
+#
+Projet_ADC_FINAL comparateur_nmos symbol
+I0
+#ISCELL
+analogLib vdd symbol
+I1
+#ISCELL
+analogLib gnd symbol
+I2
